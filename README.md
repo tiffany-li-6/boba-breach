@@ -1,4 +1,37 @@
-# Boba Breach
+Boba Breach -- Teabug Studios (Team 8)
+Golden Master Release
+May 17, 2026
+CS 3152
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# 🧋 Boba Breach
+
+An interactive 2D Boba Action-Shooter game developed as part of CS 3152 at Cornell University.
+
+### 🔗 Quick Links
+* **[Official Website & Downloads]([https://your-game-website-link-here.com](https://gdiac.cs.cornell.edu/gdiac/showcase/games/boba_breach/))** — Play the game and view project info.
+
+
+Game Controls
+
+You may move the currently-selected helper bug with right mouse button (left mouse button shoots from the slingshot).
+For levels with multiple helper bugs, you can toggle between them with Space.
+You can also press Q and E to control the first/second helper bugs 
+respectively (in case you're on a trackpad). 
+
+W/S to move slingshot up/down (can be done in any mode)
+Mouse/Trackpad - angle the slingshot
+
+Slingshot mode:
+LMB - fire boba projectile
+
+Helper bug mode:
+RMB - set the destination for helper bug; cannot set destination inside a non-ingredient crate
+If selected destination is either a crate with ingredients or the cup, the helper
+will pick up an ingredient (crate) or drop off a carried ingredient (cup)
+
+Helpers can also return their carried ingredient to a crate of the proper type.
+
+# The following was the README.md content given by the course
 
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
 
