@@ -8,7 +8,7 @@ CS 3152
 An interactive 2D Boba Action-Shooter game developed as part of CS 3152 at Cornell University.
 
 ### 🔗 Quick Links
-* **[Official Website & Downloads]([https://your-game-website-link-here.com](https://gdiac.cs.cornell.edu/gdiac/showcase/games/boba_breach/))** — Play the game and view project info.
+* **[Official Website & Downloads](https://gdiac.cs.cornell.edu/gdiac/showcase/games/boba_breach/)** — Play the game and view project info.
 
 
 Game Controls
