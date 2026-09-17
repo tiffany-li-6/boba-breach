@@ -1,0 +1,22 @@
+{
+  "unlockedUpTo": 15,
+  "musicVolume": 7,
+  "sfxVolume": 50,
+  "levels": [
+    {"levelIndex": 1, "stars": 3, "bestTime": 14.197886, "bestStunned": 0, "bestKills": 6, "bestAccuracy": 0.85714287, "completed": true},
+    {"levelIndex": 2, "stars": 3, "bestTime": 25.199734, "bestStunned": 0, "bestKills": 0, "bestAccuracy": -1.0, "completed": true},
+    {"levelIndex": 3, "stars": 3, "bestTime": 46.10057, "bestStunned": 0, "bestKills": 7, "bestAccuracy": 1.0, "completed": true},
+    {"levelIndex": 4, "stars": 3, "bestTime": 34.18277, "bestStunned": 0, "bestKills": 10, "bestAccuracy": 0.875, "completed": true},
+    {"levelIndex": 5, "stars": 3, "bestTime": 72.71726, "bestStunned": 0, "bestKills": 21, "bestAccuracy": 0.7777778, "completed": true},
+    {"levelIndex": 6, "stars": 3, "bestTime": 43.63463, "bestStunned": 0, "bestKills": 6, "bestAccuracy": 0.75, "completed": true},
+    {"levelIndex": 7, "stars": 3, "bestTime": 49.150757, "bestStunned": 0, "bestKills": 17, "bestAccuracy": 0.93333334, "completed": true},
+    {"levelIndex": 8, "stars": 2, "bestTime": 81.250725, "bestStunned": 0, "bestKills": 20, "bestAccuracy": 0.8, "completed": true},
+    {"levelIndex": 9, "stars": 2, "bestTime": 55.806007, "bestStunned": 0, "bestKills": 14, "bestAccuracy": 0.8181818, "completed": true},
+    {"levelIndex": 10, "stars": 3, "bestTime": 52.050526, "bestStunned": 0, "bestKills": 17, "bestAccuracy": 0.90909094, "completed": true},
+    {"levelIndex": 11, "stars": 3, "bestTime": 43.382706, "bestStunned": 0, "bestKills": 11, "bestAccuracy": 0.9285714, "completed": true},
+    {"levelIndex": 12, "stars": 3, "bestTime": 64.5512, "bestStunned": 2, "bestKills": 8, "bestAccuracy": 0.8181818, "completed": true},
+    {"levelIndex": 13, "stars": 2, "bestTime": 81.70134, "bestStunned": 0, "bestKills": 28, "bestAccuracy": 0.96428573, "completed": true},
+    {"levelIndex": 14, "stars": 3, "bestTime": 77.384026, "bestStunned": 0, "bestKills": 38, "bestAccuracy": 0.93333334, "completed": true},
+    {"levelIndex": 15, "stars": 3, "bestTime": 63.01683, "bestStunned": 0, "bestKills": 25, "bestAccuracy": 0.9166667, "completed": true}
+  ]
+}

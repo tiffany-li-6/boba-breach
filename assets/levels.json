@@ -1,0 +1,131 @@
+{
+  "level1": {
+    "recipe": {
+      "milk": 2,
+      "jelly": 4,
+      "boba": 3
+    },
+    "available": {
+      "milk": 5,
+      "jelly": 7,
+      "boba": 99999
+    },
+    "crates": {
+      "positions": [
+        14.7,
+        15.0,
+        19.8,
+        5.5
+      ]
+    },
+    "vents": {
+      "positions": [
+        31.0,
+        15.0,
+        7.0,
+        1.0
+      ],
+      "target_crate": [
+        1,
+        2
+      ],
+      "spawn_times": [
+        5.0,
+        15.0
+      ],
+      "spawn_limit": 1250,
+      "initial_spawn": 100,
+      "random_factor": 100
+    },
+    "blocker": {
+      "spawn_interval": 6.0,
+      "spawn_x": [5.0,12.0,23.0]
+    },
+    "helper_spawn": {
+      "positions": [
+        1.0,
+        12.5
+      ]
+    },
+    "cup": {
+      "x": 30.0,
+      "y": 9.0
+    },
+    "portals": {
+      "positions": [
+        4.0, 15.0, 28.0, 5.5
+      ]
+    },
+    "level_obstacles": {
+      "positions": [
+        14.7, 13.0,
+        12.2, 12.5,
+        17.3, 3.0,
+        17.3, 5.5
+      ]
+    },
+    "custom_walls": {
+      "pos": [
+      ]
+    }
+  },
+  "level2": {
+    "recipe": {
+      "milk": 3,
+      "jelly": 5,
+      "boba": 4
+    },
+    "available": {
+      "milk": 7,
+      "jelly": 9,
+      "boba": 99999
+    },
+    "crates": {
+      "positions": [
+        8.0, 14.0,
+        24.0, 4.0
+      ]
+    },
+    "vents": {
+      "positions": [
+        31.0, 9.0,
+        15.0, 1.0
+      ],
+      "target_crate": [
+        1, 2
+      ],
+      "spawn_times": [
+        5.0,
+        12.0
+      ],
+      "spawn_limit": 1000,
+      "initial_spawn": 80,
+      "random_factor": 120
+    },
+    "blocker": {
+      "spawn_interval": 8.0,
+      "spawn_x": [3.0,16.5,27.0]
+    },
+    "helper_spawn": {
+      "positions": [
+        1.0,
+        5.5
+      ]
+    },
+    "cup": {
+      "x": 30.0,
+      "y": 15.0
+    },
+    "portals": {
+      "positions": []
+    },
+    "level_obstacles": {
+      "positions": []
+    },
+    "custom_walls": {
+      "pos": []
+    }
+  }
+}
+
+

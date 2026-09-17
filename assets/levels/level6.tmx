@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.12.1" orientation="orthogonal" renderorder="right-down" width="16" height="10" tilewidth="600" tileheight="520" infinite="0" nextlayerid="8" nextobjectid="34">
+ <properties>
+  <property name="boba_required" type="int" value="3"/>
+  <property name="jelly_avail" type="int" value="3"/>
+  <property name="jelly_required" type="int" value="2"/>
+  <property name="milk_avail" type="int" value="2"/>
+  <property name="milk_required" type="int" value="1"/>
+  <property name="stun_num" type="int" value="0"/>
+  <property name="time_1" type="int" value="45"/>
+  <property name="time_2" type="int" value="65"/>
+ </properties>
+ <tileset firstgid="1" source="tiles.tsx"/>
+ <layer id="1" name="Crates" width="16" height="10">
+  <data encoding="csv">
+0,0,23,23,23,23,23,23,23,23,23,23,23,23,23,23,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,
+0,0,0,0,0,0,19,23,0,0,0,0,0,0,0,23,
+0,0,0,0,0,0,23,23,0,0,0,0,0,0,0,23,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,23,23,0,0,0,0,0,0,0,23,
+0,0,0,0,0,0,20,23,0,0,0,0,0,0,0,23,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,
+0,0,23,23,23,23,23,23,23,23,23,23,23,23,23,23
+</data>
+ </layer>
+ <objectgroup id="5" name="Vents">
+  <object id="17" gid="14" x="8400" y="4680" width="600" height="520">
+   <properties>
+    <property name="first_spawn" type="int" value="7"/>
+    <property name="spawn_delay" type="int" value="14"/>
+   </properties>
+  </object>
+  <object id="18" gid="14" x="8400" y="1040" width="600" height="520">
+   <properties>
+    <property name="first_spawn" type="int" value="14"/>
+    <property name="spawn_delay" type="int" value="14"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup id="7" name="Helpers">
+  <object id="15" x="600" y="1560">
+   <point/>
+  </object>
+ </objectgroup>
+</map>

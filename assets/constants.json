@@ -1,0 +1,416 @@
+{
+  "gameplay ui" : {
+    "logical width" : 1800,
+    "logical height" : 1350,
+    "controlled y" : 1110,
+    "controlled x" : 80,
+    "controlled spacing" : 160,
+    "icon size" : 140,
+    "receipt starting x" : 1000,
+    "receipt y" : 1070,
+    "receipt height" : 270,
+    "receipt width" : 193,
+    "receipt spacing" : 222,
+    "timer x" : 629,
+    "timer y" : 1142,
+    "timer w" : 294,
+    "timer h" : 181
+  },
+  "main menu" : {
+    "logical width" : 1800,
+    "logical height" : 1350,
+    "button width" : 649,
+    "button height" : 124,
+    "button center x" : 900,
+    "button spacing" : 46,
+    "button base y" : 186
+  },
+  "level select" : {
+    "logical width" : 1800,
+    "logical height" : 1350,
+    "button base y" : 825,
+    "left button x" : 152,
+    "right button x" : 1502,
+    "button y": 605,
+    "button size" : 140,
+    "button offset" : 60,
+    "play button x" : 451,
+    "play button y": 473,
+    "play button width" : 213,
+    "play button height" : 80,
+    "home button x" : 63,
+    "home button y" : 1200,
+    "home button size" : 102,
+    "level text x" : 550,
+    "level text y" : 1024,
+    "stars x" : 1113,
+    "stars y" : 969,
+    "stars width" : 270,
+    "stars height" : 89,
+    "stats left x": 1075,
+    "stats right x" : 1425,
+    "stats starting y" : 935,
+    "stats offset" : 40,
+    "preview x" : 327,
+    "preview y" : 585,
+    "preview w" : 456,
+    "preview h" : 341
+  },
+  "tutorials" : {
+    "popup x" : 311,
+    "popup y" : 24,
+    "popup w" : 1178,
+    "popup h" : 208,
+    "big popup x" : 344,
+    "big popup y" : 263,
+    "big popup w" : 1112,
+    "big popup h" : 794,
+    "logical width" : 1800,
+    "logical height" : 1350,
+    "space x" : 1125,
+    "space y" : 222,
+    "space w" : 364,
+    "space h" : 70
+  },
+  "pause menu" : {
+    "logical width" : 1800,
+    "logical height" : 1350,
+    "button width" : 649,
+    "button height" : 124,
+    "button center x" : 900,
+    "button spacing" : 25,
+    "button base y" : 281,
+    "menu width" : 733,
+    "menu height" : 809,
+    "menu x" : 533,
+    "menu y" : 113
+  },
+  "settings menu" : {
+    "logical width" : 1800,
+    "logical height" : 1350,
+    "left arrow x" : 1222,
+    "right arrow x" : 1450,
+    "top arrow y" : 835,
+    "bottom arrow y" : 719,
+    "arrow width" : 103,
+    "arrow height" : 92,
+    "volume display x" : 1388,
+    "button width" : 649,
+    "button height" : 132,
+    "reset x" : 576,
+    "reset y" : 470,
+    "back x" : 576,
+    "back y" : 297
+  },
+  "level complete" : {
+    "logical width" : 1800,
+    "logical height" : 1350,
+    "ticket x" : 500,
+    "ticket y" : 113,
+    "ticket width" : 800,
+    "ticket height" : 1115,
+    "stars width": 455,
+    "stars height": 143,
+    "stars y" : 907,
+    "stars x" : 669,
+    "retry x" : 545,
+    "retry y" : 328,
+    "retry width" : 705,
+    "retry height" : 127,
+    "home x" : 543,
+    "home width" : 280,
+    "level x" : 823,
+    "level width" : 429,
+    "home and level y" : 176,
+    "home and level height" : 149,
+    "text center x": 900,
+    "text y" : 1160,
+    "stats y" : 872,
+    "stats x" : 600,
+    "numbers x" : 1187,
+    "stats spacing" : 84
+  },
+  "world" : {
+    "bounds"  : [32, 18],
+    "crosshair x bound" : 18 ,
+    "gravity" : 0,
+    "volume": 0.8,
+    "grid size" : 0.9,
+    "ppm" : 50
+  },
+  "goal" : {
+    "pos"       : [4.0, 14.0],
+    "size"      : 3.0,
+    "density"   : 0.0,
+    "friction"  : 0.0,
+    "restitution": 0.0
+  },
+  "recipe" : {
+    "milk" : 2,
+    "jelly" : 4,
+    "boba" : 3
+  },
+  "available" : {
+    "milk" : 5,
+    "jelly" : 7,
+    "boba" : 99999
+  },
+  "player" : {
+    "pos"       : [-12.5, 5.0],
+    "inner"     : [0.7, 0.95],
+    "size"      : 2.0,
+    "force"     : 6.0,
+    "damping"   : 10.0,
+    "density"   : 0.1,
+    "friction"  : 0.0,
+    "maxspeed"  : 2.0,
+    "shot_cool" : 50,
+    "switch_cool" : 200,
+    "control_cool" : 200,
+    "sensor": {
+      "xFactor" : 1.0,
+      "yFactor" : 1.0
+    },
+    "debug" : {
+      "avatar" : "#ffff00ff",
+      "sensor" : "#ff0000ff",
+      "tolerance" : 0.05
+    }
+  },
+  "enemy" : {
+    "inner": [
+      0.35,
+      0.5
+    ],
+    "size": 2.5,
+    "stealer radius" : 0.25,
+    "attacker radius" : 0.25,
+    "stealer honey radius" : 0.15,
+    "attacker honey radius" : 0.1,
+    "stealer honey offset" : -0.15,
+    "attacker honey offset" : 0,
+    "stealer_draw_width": 3,
+    "stealer_draw_height": 3,
+    "attacker_draw_width": 2.0,
+    "attacker_draw_height": 2.0,
+    "stealer_death_draw_width": 3,
+    "stealer_death_draw_height": 3,
+    "attacker_death_draw_width": 3.0,
+    "attacker_death_draw_height": 3.0,
+    "stealer_spawn_draw_width": 4,
+    "stealer_spawn_draw_height": 4,
+    "attacker_spawn_draw_width": 4,
+    "attacker_spawn_draw_height": 4,
+    "force": 3.0,
+    "carry_speed_mult": 0.8,
+    "honey_mult" : 0.5,
+    "attacker_mult": 1.2,
+    "damping": 10.0,
+    "density": 1000,
+    "friction": 0.0,
+    "maxspeed": 2.0,
+    "shot_cool": 100,
+    "switch_cool": 200,
+    "idle_time": 150,
+    "aggro_range" : 50,
+    "spawn_forgiveness": 60,
+    "sensor": {
+      "xFactor": 1.0,
+      "yFactor": 1.0
+    },
+    "debug": {
+      "avatar": "#ffff00ff",
+      "sensor": "#ff0000ff",
+      "tolerance": 0.05
+    }
+  },
+  "helper" : {
+    "inner": [
+      0.6,
+      0.5
+    ],
+    "size": 3,
+    "radius" : 0.25,
+    "draw_width": 0.75,
+    "draw_height": 0.75,
+    "force": 5.0,
+    "hitbox radius": 0.8,
+    "carry_speed_mult": 0.8,
+    "damping": 1000.0,
+    "density": 1000,
+    "friction": 0.0,
+    "max_speed": 4,
+    "min_speed": 0.1,
+    "max_linear_accel": 10,
+    "max_ang_speed": 1.0,
+    "max_ang_accel": 1.0,
+    "control_cool" : 200,
+    "pickup_cool" : 10,
+    "collision_update_cool" : 0,
+    "move_update_cool": 5,
+    "sensor": {
+      "xFactor": 1.0,
+      "yFactor": 1.0
+    },
+    "debug": {
+      "avatar": "#ffff00ff",
+      "sensor": "#ff0000ff",
+      "tolerance": 0.05
+    },
+    "stun_duration": 2.0,
+    "stun_flashing_interval": 0.25
+  },
+  "boba": {
+    "offset" : 0.5,
+    "size"   : 1.5,
+    "restitution" : 1,
+    "speed"  : 25.0,
+    "density": 1.0,
+    "max bounces" : 3,
+    "lifetime" : 180,
+    "sim points": 12,
+    "sim time" : 1
+  },
+  "slingshot" : {
+    "size"       : 2.5,
+    "hitbox size": 1.5,
+    "hitbox y offset" : -0.7,
+    "density"    : 1000.0,
+    "friction"   : 0.0,
+    "restitution": 0.0,
+    "force" : 10.0,
+    "debug"      : "#ffff00",
+    "position": [
+      2.0, 9.0
+    ]
+  },
+  "walls": {
+    "density"   : 0.0,
+    "tile"      : 128.0,
+    "friction"  : 0,
+    "restitution" : 1,
+    "thickness" : 0.01
+  },
+  "crates" : {
+    "size"       : 1.6,
+    "img scale"  : 1.25,
+    "density"    : 1.0,
+    "friction"   : 0,
+    "restitution": 1,
+    "debug"      : "#ffff00",
+    "positions": [
+      14.0, 14.0,
+      16.0, 6.0
+    ],
+    "sensor": {
+      "xFactor" : 0.01,
+      "yFactor" : 0.01
+    },
+    "radius": 0.45
+  },
+  "cobweb": {
+    "size"       : 1.6,
+    "img scale"  : 1.25,
+    "density"    : 1.0,
+    "friction"   : 0,
+    "restitution": 1,
+    "debug"      : "#ffff00"
+  },
+  "honey": {
+    "size": 1.75,
+    "density": 0,
+    "friction": 0,
+    "restitution": 0,
+    "slowdown_factor": 0.5,
+    "img scale": 1.25,
+    "debug": { "r": 1.0, "g": 1.0, "b": 0.0, "a": 0.3 }
+  },
+  "cup" : {
+    "position" : [32, 9],
+    "size" : 4.0,
+    "density" : 1.0,
+    "friction" : 0,
+    "restitution" : 1,
+    "debug" : "#ffff00"
+  },
+  "decoration": {
+    "size": 1.6,
+    "img scale": 1.25,
+    "density": 0,
+    "friction": 0,
+    "restitution": 1.0,
+    "debug": "#888888",
+    "sensor": {
+      "xFactor": 0.75,
+      "yFactor": 0.75
+    }
+  },
+  "vents" : {
+    "size"       : 2.0,
+    "density"    : 1.0,
+    "friction"   : 0.0,
+    "restitution": 0.1,
+    "debug"      : "#ffff00",
+    "positions": [
+      31.0, 15.0,
+      7.0, 1.0
+    ],
+    "sensor": {
+      "xFactor" : 0.5,
+      "yFactor" : 0.5
+    },
+    "target_crate" : [1, 2],
+
+    "spawn_times" : [5.0, 15.0],
+    "spawn_limit" : 750,
+    "initial_spawn" : 100,
+    "random_factor" : 100
+  },
+  "helper spawn" : {
+    "size"       : 2.0,
+    "density"    : 1.0,
+    "friction"   : 0.0,
+    "restitution": 0.1,
+    "debug"      : "#ffff00",
+    "positions": [
+      1.0, 12.5,
+      1.0, 4.5
+    ]
+  },
+  "portals": {
+    "width": 2.0,
+    "height": 2.0
+  },
+  "blocker": {
+    "width": 1.0,
+    "height": 3.4,
+    "draw_width" : 3.25,
+    "draw_height" : 4.1,
+    "draw_x_offset" : 0.06,
+    "speed": 2.0,
+    "honey_mult" : 0.5,
+    "density": 1000.0,
+    "friction": 0,
+    "restitution": 1.0,
+    "spawn_interval": 20.0,
+    "delete threshold": 20.0
+  },
+  "levelobstacle": {
+    "size": 1.6,
+    "img scale": 1.25,
+    "density": 1.0,
+    "friction": 0,
+    "restitution": 1.0,
+    "debug": "#888888",
+    "sensor": {
+      "xFactor" : 0.75,
+      "yFactor" : 0.75
+    },
+    "positions": [
+      14.0, 12.0,
+      12.0, 12.0,
+      18.0, 4.0,
+      18.0, 6.0
+    ]
+  }
+}

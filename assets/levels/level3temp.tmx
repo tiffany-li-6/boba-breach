@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.12.1" orientation="orthogonal" renderorder="right-down" width="16" height="10" tilewidth="600" tileheight="520" infinite="0" nextlayerid="8" nextobjectid="49">
+ <properties>
+  <property name="boba_required" type="int" value="3"/>
+  <property name="jelly_avail" type="int" value="4"/>
+  <property name="jelly_required" type="int" value="3"/>
+  <property name="milk_avail" type="int" value="4"/>
+  <property name="milk_required" type="int" value="3"/>
+  <property name="stun_num" type="int" value="0"/>
+  <property name="time_1" type="int" value="50"/>
+  <property name="time_2" type="int" value="70"/>
+ </properties>
+ <tileset firstgid="1" source="tiles.tsx"/>
+ <layer id="1" name="Crates" width="16" height="10">
+  <data encoding="csv">
+0,0,0,0,0,24,24,24,24,20,24,24,24,24,0,0,
+0,0,0,0,0,24,0,24,24,24,24,24,0,24,0,0,
+0,0,0,0,0,24,24,24,24,24,24,24,24,24,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,24,24,24,24,24,24,24,24,24,0,0,0,0,0,
+0,0,24,0,24,24,24,24,24,0,24,0,0,0,0,0,
+0,0,24,24,24,24,19,24,24,24,24,0,0,0,0,0
+</data>
+ </layer>
+ <objectgroup id="5" name="Vents">
+  <object id="17" gid="14" x="3606.48" y="1023.68" width="600" height="520">
+   <properties>
+    <property name="first_spawn" type="int" value="5"/>
+    <property name="spawn_delay" type="int" value="17"/>
+   </properties>
+  </object>
+  <object id="18" gid="14" x="7198.83" y="1030.39" width="600" height="520">
+   <properties>
+    <property name="first_spawn" type="int" value="11"/>
+    <property name="spawn_delay" type="int" value="17"/>
+   </properties>
+  </object>
+  <object id="34" gid="3" x="4191.23" y="4578.49" width="600" height="520"/>
+  <object id="35" gid="3" x="4205.62" y="4722.44" width="600" height="520"/>
+  <object id="36" gid="3" x="4205.62" y="4708.04" width="600" height="520"/>
+  <object id="37" gid="3" x="4176.83" y="4592.88" width="600" height="520"/>
+  <object id="38" gid="3" x="4090.46" y="4002.69" width="600" height="520"/>
+  <object id="39" gid="3" x="5026.14" y="4549.7" width="600" height="520"/>
+  <object id="40" gid="3" x="4867.79" y="6363.46" width="600" height="520"/>
+  <object id="41" gid="3" x="4925.37" y="7011.24" width="600" height="520"/>
+  <object id="42" gid="3" x="4579.89" y="-2518.23" width="600" height="520"/>
+  <object id="43" gid="3" x="4363.97" y="4564.09" width="600" height="520"/>
+  <object id="47" gid="14" x="1804" y="4676" width="600" height="520">
+   <properties>
+    <property name="first_spawn" type="int" value="10"/>
+    <property name="spawn_delay" type="int" value="17"/>
+   </properties>
+  </object>
+  <object id="48" gid="14" x="5420" y="4660" width="600" height="520">
+   <properties>
+    <property name="first_spawn" type="int" value="15"/>
+    <property name="spawn_delay" type="int" value="17"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup id="7" name="Helpers">
+  <object id="15" x="600" y="1560">
+   <point/>
+  </object>
+ </objectgroup>
+</map>

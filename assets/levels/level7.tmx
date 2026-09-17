@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.12.1" orientation="orthogonal" renderorder="right-down" width="16" height="10" tilewidth="600" tileheight="520" infinite="0" nextlayerid="9" nextobjectid="45">
+ <properties>
+  <property name="boba_required" type="int" value="0"/>
+  <property name="jelly_avail" type="int" value="10"/>
+  <property name="jelly_required" type="int" value="7"/>
+  <property name="milk_avail" type="int" value="10"/>
+  <property name="milk_required" type="int" value="7"/>
+  <property name="stun_num" type="int" value="0"/>
+  <property name="time_1" type="int" value="0"/>
+  <property name="time_2" type="int" value="0"/>
+ </properties>
+ <tileset firstgid="1" source="tiles.tsx"/>
+ <layer id="1" name="Crates" width="16" height="10">
+  <data encoding="csv">
+0,0,0,23,20,0,23,0,0,0,0,17,0,0,0,0,
+0,0,0,23,0,0,23,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,23,23,23,23,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,23,23,23,23,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,23,0,0,23,0,0,0,0,0,0,0,0,0,
+0,0,0,23,19,0,23,0,0,0,0,17,0,0,0,0
+</data>
+ </layer>
+ <objectgroup id="5" name="Vents">
+  <object id="37" gid="14" x="5400" y="5200" width="600" height="520">
+   <properties>
+    <property name="first_spawn" type="int" value="4"/>
+    <property name="spawn_delay" type="int" value="15"/>
+   </properties>
+  </object>
+  <object id="38" gid="14" x="8400" y="1040" width="600" height="520">
+   <properties>
+    <property name="first_spawn" type="int" value="12"/>
+    <property name="spawn_delay" type="int" value="15"/>
+   </properties>
+  </object>
+  <object id="43" gid="14" x="8400" y="4680" width="600" height="520">
+   <properties>
+    <property name="first_spawn" type="int" value="15"/>
+    <property name="spawn_delay" type="int" value="15"/>
+   </properties>
+  </object>
+  <object id="44" gid="14" x="5400" y="520" width="600" height="520">
+   <properties>
+    <property name="first_spawn" type="int" value="9"/>
+    <property name="spawn_delay" type="int" value="15"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup id="7" name="Helpers">
+  <object id="36" x="1200" y="1560">
+   <point/>
+  </object>
+ </objectgroup>
+</map>

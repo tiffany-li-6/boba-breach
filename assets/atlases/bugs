@@ -1,0 +1,1200 @@
+
+bugs.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+helper_blue_fly_E
+  rotate: false
+  xy: 2, 904
+  size: 1200, 900
+  orig: 1200, 900
+  offset: 0, 0
+  index: -1
+helper_blue_fly_N
+  rotate: false
+  xy: 2, 2
+  size: 1200, 900
+  orig: 1200, 900
+  offset: 0, 0
+  index: -1
+
+bugs2.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+helper_blue_fly_NE
+  rotate: false
+  xy: 2, 904
+  size: 1200, 900
+  orig: 1200, 900
+  offset: 0, 0
+  index: -1
+helper_blue_fly_NW
+  rotate: false
+  xy: 2, 2
+  size: 1200, 900
+  orig: 1200, 900
+  offset: 0, 0
+  index: -1
+
+bugs3.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+helper_blue_fly_S
+  rotate: false
+  xy: 2, 904
+  size: 1200, 900
+  orig: 1200, 900
+  offset: 0, 0
+  index: -1
+helper_blue_fly_SE
+  rotate: false
+  xy: 2, 2
+  size: 1200, 900
+  orig: 1200, 900
+  offset: 0, 0
+  index: -1
+
+bugs4.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+helper_blue_fly_SW
+  rotate: false
+  xy: 2, 904
+  size: 1200, 900
+  orig: 1200, 900
+  offset: 0, 0
+  index: -1
+helper_blue_fly_W
+  rotate: false
+  xy: 2, 2
+  size: 1200, 900
+  orig: 1200, 900
+  offset: 0, 0
+  index: -1
+
+bugs5.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+helper_orange_fly_E
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs6.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+helper_orange_fly_N
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs7.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+helper_orange_fly_NE
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs8.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+helper_orange_fly_NW
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs9.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+helper_orange_fly_S
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs10.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+helper_orange_fly_SE
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs11.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+helper_orange_fly_SW
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs12.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+helper_orange_fly_W
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs13.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+blocker_walk_E
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1200
+  orig: 1500, 1200
+  offset: 0, 0
+  index: -1
+
+bugs14.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+blocker_walk_N
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1200
+  orig: 1500, 1200
+  offset: 0, 0
+  index: -1
+
+bugs15.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+blocker_walk_NE
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1200
+  orig: 1500, 1200
+  offset: 0, 0
+  index: -1
+
+bugs16.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+blocker_walk_NW
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1200
+  orig: 1500, 1200
+  offset: 0, 0
+  index: -1
+
+bugs17.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+blocker_walk_S
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1200
+  orig: 1500, 1200
+  offset: 0, 0
+  index: -1
+
+bugs18.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+blocker_walk_SE
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1200
+  orig: 1500, 1200
+  offset: 0, 0
+  index: -1
+
+bugs19.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+blocker_walk_SW
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1200
+  orig: 1500, 1200
+  offset: 0, 0
+  index: -1
+
+bugs20.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+blocker_walk_W
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1200
+  orig: 1500, 1200
+  offset: 0, 0
+  index: -1
+
+bugs21.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+attacker_walk_E
+  rotate: false
+  xy: 2, 2
+  size: 1800, 1500
+  orig: 1800, 1500
+  offset: 0, 0
+  index: -1
+
+bugs22.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+attacker_walk_N
+  rotate: false
+  xy: 2, 2
+  size: 1800, 1500
+  orig: 1800, 1500
+  offset: 0, 0
+  index: -1
+
+bugs23.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+attacker_walk_NE
+  rotate: false
+  xy: 2, 2
+  size: 1800, 1500
+  orig: 1800, 1500
+  offset: 0, 0
+  index: -1
+
+bugs24.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+attacker_walk_NW
+  rotate: false
+  xy: 2, 2
+  size: 1800, 1500
+  orig: 1800, 1500
+  offset: 0, 0
+  index: -1
+
+bugs25.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+attacker_walk_S
+  rotate: false
+  xy: 2, 2
+  size: 1800, 1500
+  orig: 1800, 1500
+  offset: 0, 0
+  index: -1
+
+bugs26.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+attacker_walk_SE
+  rotate: false
+  xy: 2, 2
+  size: 1800, 1500
+  orig: 1800, 1500
+  offset: 0, 0
+  index: -1
+
+bugs27.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+attacker_walk_SW
+  rotate: false
+  xy: 2, 2
+  size: 1800, 1500
+  orig: 1800, 1500
+  offset: 0, 0
+  index: -1
+
+bugs28.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+attacker_walk_W
+  rotate: false
+  xy: 2, 2
+  size: 1800, 1500
+  orig: 1800, 1500
+  offset: 0, 0
+  index: -1
+
+bugs29.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+attacker_death_E
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs30.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+attacker_death_N
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs31.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+attacker_death_NE
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs32.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+attacker_death_NW
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs33.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+attacker_death_S
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs34.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+attacker_death_SE
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs35.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+attacker_death_SW
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs36.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+attacker_death_W
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs37.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+attacker_despawn_E
+  rotate: false
+  xy: 2, 904
+  size: 1200, 900
+  orig: 1200, 900
+  offset: 0, 0
+  index: -1
+attacker_despawn_N
+  rotate: false
+  xy: 2, 2
+  size: 1200, 900
+  orig: 1200, 900
+  offset: 0, 0
+  index: -1
+
+bugs38.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+attacker_despawn_NE
+  rotate: false
+  xy: 2, 904
+  size: 1200, 900
+  orig: 1200, 900
+  offset: 0, 0
+  index: -1
+attacker_despawn_NW
+  rotate: false
+  xy: 2, 2
+  size: 1200, 900
+  orig: 1200, 900
+  offset: 0, 0
+  index: -1
+
+bugs39.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+attacker_despawn_S
+  rotate: false
+  xy: 2, 904
+  size: 1200, 900
+  orig: 1200, 900
+  offset: 0, 0
+  index: -1
+attacker_despawn_SE
+  rotate: false
+  xy: 2, 2
+  size: 1200, 900
+  orig: 1200, 900
+  offset: 0, 0
+  index: -1
+
+bugs40.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+attacker_despawn_SW
+  rotate: false
+  xy: 2, 904
+  size: 1200, 900
+  orig: 1200, 900
+  offset: 0, 0
+  index: -1
+attacker_despawn_W
+  rotate: false
+  xy: 2, 2
+  size: 1200, 900
+  orig: 1200, 900
+  offset: 0, 0
+  index: -1
+
+bugs41.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+attacker_spawn_E
+  rotate: false
+  xy: 2, 2
+  size: 1200, 1200
+  orig: 1200, 1200
+  offset: 0, 0
+  index: -1
+
+bugs42.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+attacker_spawn_N
+  rotate: false
+  xy: 2, 2
+  size: 1200, 1200
+  orig: 1200, 1200
+  offset: 0, 0
+  index: -1
+
+bugs43.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+attacker_spawn_NE
+  rotate: false
+  xy: 2, 2
+  size: 1200, 1200
+  orig: 1200, 1200
+  offset: 0, 0
+  index: -1
+
+bugs44.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+attacker_spawn_NW
+  rotate: false
+  xy: 2, 2
+  size: 1200, 1200
+  orig: 1200, 1200
+  offset: 0, 0
+  index: -1
+
+bugs45.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+attacker_spawn_S
+  rotate: false
+  xy: 2, 2
+  size: 1200, 1200
+  orig: 1200, 1200
+  offset: 0, 0
+  index: -1
+
+bugs46.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+attacker_spawn_SE
+  rotate: false
+  xy: 2, 2
+  size: 1200, 1200
+  orig: 1200, 1200
+  offset: 0, 0
+  index: -1
+
+bugs47.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+attacker_spawn_SW
+  rotate: false
+  xy: 2, 2
+  size: 1200, 1200
+  orig: 1200, 1200
+  offset: 0, 0
+  index: -1
+
+bugs48.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+attacker_spawn_W
+  rotate: false
+  xy: 2, 2
+  size: 1200, 1200
+  orig: 1200, 1200
+  offset: 0, 0
+  index: -1
+
+bugs49.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_pickup_E
+  rotate: false
+  xy: 2, 2
+  size: 1800, 1500
+  orig: 1800, 1500
+  offset: 0, 0
+  index: -1
+
+bugs50.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_pickup_N
+  rotate: false
+  xy: 2, 2
+  size: 1800, 1500
+  orig: 1800, 1500
+  offset: 0, 0
+  index: -1
+
+bugs51.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_pickup_NE
+  rotate: false
+  xy: 2, 2
+  size: 1800, 1500
+  orig: 1800, 1500
+  offset: 0, 0
+  index: -1
+
+bugs52.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_pickup_NW
+  rotate: false
+  xy: 2, 2
+  size: 1800, 1500
+  orig: 1800, 1500
+  offset: 0, 0
+  index: -1
+
+bugs53.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_pickup_S
+  rotate: false
+  xy: 2, 2
+  size: 1800, 1500
+  orig: 1800, 1500
+  offset: 0, 0
+  index: -1
+
+bugs54.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_pickup_SE
+  rotate: false
+  xy: 2, 2
+  size: 1800, 1500
+  orig: 1800, 1500
+  offset: 0, 0
+  index: -1
+
+bugs55.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_pickup_SW
+  rotate: false
+  xy: 2, 2
+  size: 1800, 1500
+  orig: 1800, 1500
+  offset: 0, 0
+  index: -1
+
+bugs56.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_pickup_W
+  rotate: false
+  xy: 2, 2
+  size: 1800, 1500
+  orig: 1800, 1500
+  offset: 0, 0
+  index: -1
+
+bugs57.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_death_E
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs58.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_death_N
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs59.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_death_NE
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs60.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_death_NW
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs61.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_death_S
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs62.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_death_SE
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs63.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_death_SW
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs64.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_death_W
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs65.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_fly_E
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs66.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_fly_N
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs67.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_fly_NE
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs68.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_fly_NW
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs69.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_fly_S
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs70.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_fly_SE
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs71.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_fly_SW
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs72.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_fly_W
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs73.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_spawn_E
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs74.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_spawn_N
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs75.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_spawn_NE
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs76.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_spawn_NW
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs77.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_spawn_S
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs78.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_spawn_SE
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs79.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_spawn_SW
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs80.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_spawn_W
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+bugs81.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_despawn_E
+  rotate: false
+  xy: 2, 2
+  size: 1200, 1200
+  orig: 1200, 1200
+  offset: 0, 0
+  index: -1
+
+bugs82.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_despawn_N
+  rotate: false
+  xy: 2, 2
+  size: 1200, 1200
+  orig: 1200, 1200
+  offset: 0, 0
+  index: -1
+
+bugs83.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_despawn_NE
+  rotate: false
+  xy: 2, 2
+  size: 1200, 1200
+  orig: 1200, 1200
+  offset: 0, 0
+  index: -1
+
+bugs84.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_despawn_NW
+  rotate: false
+  xy: 2, 2
+  size: 1200, 1200
+  orig: 1200, 1200
+  offset: 0, 0
+  index: -1
+
+bugs85.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_despawn_S
+  rotate: false
+  xy: 2, 2
+  size: 1200, 1200
+  orig: 1200, 1200
+  offset: 0, 0
+  index: -1
+
+bugs86.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_despawn_SE
+  rotate: false
+  xy: 2, 2
+  size: 1200, 1200
+  orig: 1200, 1200
+  offset: 0, 0
+  index: -1
+
+bugs87.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_despawn_SW
+  rotate: false
+  xy: 2, 2
+  size: 1200, 1200
+  orig: 1200, 1200
+  offset: 0, 0
+  index: -1
+
+bugs88.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+stealer_despawn_W
+  rotate: false
+  xy: 2, 2
+  size: 1200, 1200
+  orig: 1200, 1200
+  offset: 0, 0
+  index: -1

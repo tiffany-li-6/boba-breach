@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.12.1" orientation="orthogonal" renderorder="right-down" width="16" height="10" tilewidth="600" tileheight="520" infinite="0" nextlayerid="8" nextobjectid="22">
+ <editorsettings>
+  <export target="../level7.tmj" format="json"/>
+ </editorsettings>
+ <properties>
+  <property name="boba_required" type="int" value="1"/>
+  <property name="jelly_avail" type="int" value="5"/>
+  <property name="jelly_required" type="int" value="3"/>
+  <property name="milk_avail" type="int" value="5"/>
+  <property name="milk_required" type="int" value="3"/>
+ </properties>
+ <tileset firstgid="1" source="tiles.tsx"/>
+ <layer id="1" name="Crates" width="16" height="10">
+  <data encoding="csv">
+0,0,0,24,0,0,0,0,0,0,25,0,0,0,0,0,
+0,0,24,24,0,0,0,0,0,35,25,0,0,0,0,0,
+0,0,0,0,17,18,17,17,17,18,17,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,17,18,17,17,18,49,25,0,0,0,0,0,
+0,0,24,24,0,0,0,0,0,20,25,0,0,0,0,0,
+0,0,0,24,0,0,0,0,0,0,17,0,0,0,0,0
+</data>
+ </layer>
+ <objectgroup id="5" name="Vents">
+  <object id="17" gid="14" x="1212.33" y="5185.61" width="600" height="520">
+   <properties>
+    <property name="bug_type" value="stealer"/>
+    <property name="first_spawn" type="int" value="7"/>
+    <property name="spawn_delay" type="int" value="14"/>
+   </properties>
+  </object>
+  <object id="18" gid="14" x="1197.93" y="521.781" width="600" height="520">
+   <properties>
+    <property name="bug_type" value="stealer"/>
+    <property name="first_spawn" type="int" value="14"/>
+    <property name="spawn_delay" type="int" value="14"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup id="7" name="Helpers">
+  <object id="20" x="1190.19" y="1574.39">
+   <point/>
+  </object>
+  <object id="21" x="1165.99" y="3641.93">
+   <point/>
+  </object>
+ </objectgroup>
+</map>

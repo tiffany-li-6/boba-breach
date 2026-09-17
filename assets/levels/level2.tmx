@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.12.1" orientation="orthogonal" renderorder="right-down" width="16" height="10" tilewidth="600" tileheight="520" infinite="0" nextlayerid="8" nextobjectid="34">
+ <properties>
+  <property name="boba_required" type="int" value="0"/>
+  <property name="jelly_avail" type="int" value="10"/>
+  <property name="jelly_required" type="int" value="7"/>
+  <property name="milk_avail" type="int" value="10"/>
+  <property name="milk_required" type="int" value="7"/>
+  <property name="stun_num" type="int" value="0"/>
+  <property name="time_1" type="int" value="0"/>
+  <property name="time_2" type="int" value="0"/>
+ </properties>
+ <tileset firstgid="1" source="tiles.tsx"/>
+ <tileset firstgid="65" source="more_tiles.tsx"/>
+ <layer id="1" name="Crates" width="16" height="10">
+  <data encoding="csv">
+117,118,119,0,0,0,0,0,0,0,0,0,0,101,98,98,
+0,0,0,0,0,0,0,119,0,0,0,0,0,0,82,82,
+0,0,0,0,0,0,102,19,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,102,20,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+89,89,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+81,81,101,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <objectgroup id="5" name="Vents"/>
+ <objectgroup id="7" name="Helpers">
+  <object id="15" x="600" y="1560">
+   <point/>
+  </object>
+ </objectgroup>
+</map>

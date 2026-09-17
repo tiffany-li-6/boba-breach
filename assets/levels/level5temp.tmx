@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.12.1" orientation="orthogonal" renderorder="right-down" width="16" height="10" tilewidth="600" tileheight="520" infinite="0" nextlayerid="8" nextobjectid="46">
+ <properties>
+  <property name="boba_required" type="int" value="3"/>
+  <property name="jelly_avail" type="int" value="5"/>
+  <property name="jelly_required" type="int" value="4"/>
+  <property name="milk_avail" type="int" value="5"/>
+  <property name="milk_required" type="int" value="4"/>
+  <property name="stun_num" type="int" value="3"/>
+  <property name="time_1" type="int" value="70"/>
+  <property name="time_2" type="int" value="90"/>
+ </properties>
+ <tileset firstgid="1" source="tiles.tsx"/>
+ <layer id="1" name="Crates" width="16" height="10">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,24,24,24,24,0,0,0,0,0,0,0,0,0,0,
+0,0,24,20,17,24,0,0,0,0,0,0,0,0,0,0,
+0,0,24,24,24,24,0,0,0,0,0,0,0,24,24,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,
+0,0,0,0,0,0,24,24,24,24,0,0,0,24,0,0,
+0,0,0,0,0,0,24,17,19,24,0,0,0,24,24,0,
+0,0,0,0,0,0,24,24,24,24,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <objectgroup id="5" name="Vents">
+  <object id="41" gid="14" x="3600" y="5200" width="600" height="520">
+   <properties>
+    <property name="bug_type" propertytype="bug_type" value="attacker"/>
+    <property name="first_spawn" type="int" value="15"/>
+    <property name="spawn_delay" type="int" value="20"/>
+   </properties>
+  </object>
+  <object id="42" gid="14" x="3600" y="520" width="600" height="520">
+   <properties>
+    <property name="bug_type" propertytype="bug_type" value="attacker"/>
+    <property name="first_spawn" type="int" value="1"/>
+    <property name="spawn_delay" type="int" value="20"/>
+   </properties>
+  </object>
+  <object id="44" gid="14" x="6600" y="5200" width="600" height="520">
+   <properties>
+    <property name="bug_type" propertytype="bug_type" value="blocker"/>
+    <property name="first_spawn" type="int" value="0"/>
+    <property name="spawn_delay" type="int" value="30"/>
+   </properties>
+  </object>
+  <object id="45" gid="14" x="7804.36" y="1035.55" width="600" height="520">
+   <properties>
+    <property name="bug_type" propertytype="bug_type" value="attacker"/>
+    <property name="first_spawn" type="int" value="10"/>
+    <property name="spawn_delay" type="int" value="20"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup id="7" name="Helpers">
+  <object id="34" x="1200" y="4680">
+   <point/>
+  </object>
+ </objectgroup>
+</map>

@@ -1,0 +1,363 @@
+{
+    "activeFile": "level1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "basic_level.tmx": {
+            "expandedObjectLayers": [
+                5,
+                7
+            ],
+            "scale": 0.06946875,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 5254.161043634728,
+                "y": 2598.2905982905986
+            }
+        },
+        "collection_test.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.06,
+            "scaleInEditor": 0.5
+        },
+        "level1.tmx": {
+            "scale": 0.0625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 6248,
+                "y": 2520
+            }
+        },
+        "level13.tmx": {
+            "scale": 0.09994791666666666,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 4797.498697238145,
+                "y": 2596.3522668056285
+            }
+        },
+        "level14.tmx": {
+            "expandedObjectLayers": [
+                8
+            ],
+            "scale": 0.09994791666666666,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 4797.498697238145,
+                "y": 2596.3522668056285
+            }
+        },
+        "level15.tmx": {
+            "scale": 0.09994791666666666,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 4797.498697238145,
+                "y": 2596.3522668056285
+            }
+        },
+        "level16.tmx": {
+            "expandedObjectLayers": [
+                8
+            ],
+            "scale": 0.09994791666666666,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 4797.498697238145,
+                "y": 2596.3522668056285
+            }
+        },
+        "level1tutorial.tmx": {
+            "expandedObjectLayers": [
+                5
+            ],
+            "scale": 0.09579166666666666,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 4796.868203566768,
+                "y": 2604.6107003044804
+            }
+        },
+        "level2.tmx": {
+            "scale": 0.06946875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 4793.522267206478,
+                "y": 2605.488079172289
+            }
+        },
+        "level20.tmx": {
+            "scale": 0.09994791666666666,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 4797.498697238145,
+                "y": 2596.3522668056285
+            }
+        },
+        "level2temp.tmx": {
+            "scale": 0.09579166666666666,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 4802.087864288822,
+                "y": 2599.3910395824273
+            }
+        },
+        "level2tutorial.tmx": {
+            "scale": 0.09579166666666666,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 4796.868203566768,
+                "y": 2604.6107003044804
+            }
+        },
+        "level3 - Copy.tmx": {
+            "scale": 0.06946875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 4800.719748088169,
+                "y": 2598.2905982905986
+            }
+        },
+        "level3.tmx": {
+            "scale": 0.0625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 4800,
+                "y": 2592
+            }
+        },
+        "level3temp.tmx": {
+            "scale": 0.09579166666666666,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 4802.087864288822,
+                "y": 2599.3910395824273
+            }
+        },
+        "level4.tmx": {
+            "expandedObjectLayers": [
+                5
+            ],
+            "scale": 0.0625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 4800,
+                "y": 2592
+            }
+        },
+        "level4temp.tmx": {
+            "expandedObjectLayers": [
+                5
+            ],
+            "scale": 0.08846875,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 4086.188625927235,
+                "y": 2605.4397739314736
+            }
+        },
+        "level5.tmx": {
+            "scale": 0.06946875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 4793.522267206478,
+                "y": 2605.488079172289
+            }
+        },
+        "level5temp.tmx": {
+            "scale": 0.08846875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 5453.903214411869,
+                "y": 2605.4397739314736
+            }
+        },
+        "level6.tmx": {
+            "scale": 0.0625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 4800,
+                "y": 2592
+            }
+        },
+        "level67.tmx": {
+            "scale": 0.06946875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 4793.522267206478,
+                "y": 2605.488079172289
+            }
+        },
+        "level6temp.tmx": {
+            "scale": 0.08846875,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 5453.903214411869,
+                "y": 2605.4397739314736
+            }
+        },
+        "level7temp.tmx": {
+            "scale": 0.08846875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 5453.903214411869,
+                "y": 2605.4397739314736
+            }
+        },
+        "levelB.tmx": {
+            "expandedObjectLayers": [
+                5,
+                7
+            ],
+            "scale": 0.06946875,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 4793.522267206478,
+                "y": 2605.488079172289
+            }
+        },
+        "levelC.tmx": {
+            "expandedObjectLayers": [
+                5
+            ],
+            "scale": 0.06946875,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 4793.522267206478,
+                "y": 2605.488079172289
+            }
+        },
+        "more_tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "really_basic_level.tmx": {
+            "expandedObjectLayers": [
+                5
+            ],
+            "scale": 0.06946875,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 4793.522267206478,
+                "y": 2598.2905982905986
+            }
+        },
+        "sample (copy this) - Copy (2).tmx": {
+            "scale": 0.06946875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 4800.719748088169,
+                "y": 2598.2905982905986
+            }
+        },
+        "sample (copy this) - Copy.tmx": {
+            "expandedObjectLayers": [
+                5
+            ],
+            "scale": 0.06946875,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 4800.719748088169,
+                "y": 2598.2905982905986
+            }
+        },
+        "sample (copy this).tmx": {
+            "expandedObjectLayers": [
+                5,
+                7
+            ],
+            "scale": 0.06946875,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 5268.556005398111,
+                "y": 2591.0931174089064
+            }
+        },
+        "sample_level - Copy.tmx": {
+            "scale": 0.06946875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 4800.719748088169,
+                "y": 2598.2905982905986
+            }
+        },
+        "sample_level.tmj": {
+            "scale": 0.034734375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 9601.439496176337,
+                "y": 4160.143949617634
+            }
+        },
+        "sample_level.tmx": {
+            "expandedObjectLayers": [
+                5,
+                7
+            ],
+            "scale": 0.0625,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 4792,
+                "y": 2584
+            }
+        },
+        "temporary-tileset.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.06,
+            "scaleInEditor": 0.5
+        },
+        "temporary_tileset2.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.06,
+            "scaleInEditor": 0.5
+        },
+        "tiles.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.0625,
+            "scaleInEditor": 0.12
+        }
+    },
+    "last.exportedFilePath": "C:/Users/veran/OneDrive/Desktop/game dev/boba_breach/assets",
+    "last.imagePath": "C:/Users/veran/Downloads",
+    "map.height": 18,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 40,
+    "map.width": 32,
+    "openFiles": [
+        "sample (copy this).tmx",
+        "level4.tmx",
+        "level6.tmx",
+        "level5.tmx",
+        "levelB.tmx",
+        "levelC.tmx",
+        "level67.tmx",
+        "level1.tmx",
+        "level2.tmx",
+        "level3.tmx",
+        "level2temp.tmx",
+        "level3temp.tmx"
+    ],
+    "project": "tiled_game.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "more_tiles.tsx",
+        "level6temp.tmx",
+        "level6.tmx",
+        "level3temp.tmx",
+        "level15.tmx",
+        "level7temp.tmx",
+        "level2temp.tmx",
+        "level3.tmx",
+        "level4.tmx",
+        "level67.tmx",
+        "level2.tmx",
+        "level1.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 520,
+        "width": 600
+    },
+    "tileset.type": 0
+}

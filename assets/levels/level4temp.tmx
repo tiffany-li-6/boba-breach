@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.12.1" orientation="orthogonal" renderorder="right-down" width="16" height="10" tilewidth="600" tileheight="520" infinite="0" nextlayerid="9" nextobjectid="46">
+ <properties>
+  <property name="boba_required" type="int" value="1"/>
+  <property name="jelly_avail" type="int" value="4"/>
+  <property name="jelly_required" type="int" value="3"/>
+  <property name="milk_avail" type="int" value="4"/>
+  <property name="milk_required" type="int" value="3"/>
+  <property name="stun_num" type="int" value="2"/>
+  <property name="time_1" type="int" value="65"/>
+  <property name="time_2" type="int" value="85"/>
+ </properties>
+ <tileset firstgid="1" source="tiles.tsx"/>
+ <objectgroup id="8" name="Portals">
+  <object id="40" gid="57" x="1210.09" y="3616.19" width="600" height="520">
+   <properties>
+    <property name="color" value="blue"/>
+    <property name="dir" value="left"/>
+    <property name="pair_id" type="int" value="2"/>
+    <property name="role" value="entry"/>
+   </properties>
+  </object>
+  <object id="41" gid="57" x="2851.11" y="1992.96" width="600" height="520">
+   <properties>
+    <property name="color" value="blue"/>
+    <property name="dir" value="down"/>
+    <property name="pair_id" type="int" value="2"/>
+    <property name="role" value="exit"/>
+   </properties>
+  </object>
+  <object id="42" gid="59" x="1223.09" y="2061.37" width="600" height="520">
+   <properties>
+    <property name="color" value="green"/>
+    <property name="dir" value="left"/>
+    <property name="pair_id" type="int" value="1"/>
+    <property name="role" value="entry"/>
+   </properties>
+  </object>
+  <object id="43" gid="59" x="5261.4" y="1964.17" width="600" height="520">
+   <properties>
+    <property name="color" value="green"/>
+    <property name="dir" value="down"/>
+    <property name="pair_id" type="int" value="1"/>
+    <property name="role" value="exit"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <layer id="1" name="Crates" width="16" height="10">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,25,17,17,17,17,17,17,17,25,0,0,0,0,
+0,0,0,49,0,0,0,0,0,0,0,25,0,0,0,0,
+0,0,0,44,0,0,0,0,0,0,0,25,0,0,0,0,
+0,0,0,27,0,0,0,0,0,0,0,25,0,0,0,0,
+0,0,0,25,0,0,0,0,0,0,0,25,0,0,0,0,
+0,0,0,17,18,23,18,18,18,23,18,17,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <objectgroup id="5" name="Vents">
+  <object id="17" gid="14" x="5998.49" y="3113.73" width="600" height="520">
+   <properties>
+    <property name="first_spawn" type="int" value="5"/>
+    <property name="spawn_delay" type="int" value="14"/>
+   </properties>
+  </object>
+  <object id="18" gid="14" x="6011.49" y="2578.88" width="600" height="520">
+   <properties>
+    <property name="first_spawn" type="int" value="12"/>
+    <property name="spawn_delay" type="int" value="14"/>
+   </properties>
+  </object>
+  <object id="35" gid="14" x="7807.92" y="521.637" width="600" height="520">
+   <properties>
+    <property name="bug_type" propertytype="bug_type" value="blocker"/>
+    <property name="first_spawn" type="int" value="0"/>
+    <property name="spawn_delay" type="int" value="30"/>
+   </properties>
+  </object>
+  <object id="36" gid="14" x="7813.77" y="5171.21" width="600" height="520">
+   <properties>
+    <property name="bug_type" propertytype="bug_type" value="blocker"/>
+    <property name="first_spawn" type="int" value="15"/>
+    <property name="spawn_delay" type="int" value="30"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup id="7" name="Helpers">
+  <object id="15" x="624" y="520">
+   <point/>
+  </object>
+  <object id="34" x="592" y="4664">
+   <point/>
+  </object>
+ </objectgroup>
+</map>
